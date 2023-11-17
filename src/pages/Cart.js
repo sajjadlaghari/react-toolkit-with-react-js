@@ -30,7 +30,7 @@ const Cart = () => {
                         <h5 class="card-title">{product.title.slice(0, 20)}</h5>
                         <p class="card-text">{product.description.slice(0, 50)}</p>
                         <div className="col-lg-12 text-center">
-                        <a  href="#" class="btn btn-danger alignself-center" onClick={() =>handleRemove(product.id)}>Remove</a>
+                        <a  class="btn btn-danger alignself-center" onClick={() =>handleRemove(product.id)}>Remove</a>
 
                         </div>
                     </div>

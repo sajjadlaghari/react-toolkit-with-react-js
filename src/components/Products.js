@@ -43,7 +43,7 @@ const Products = () => {
                         <h5 class="card-title">{product.title.slice(0, 20)}</h5>
                         <p class="card-text">{product.description.slice(0, 50)}</p>
                         <div className="col-lg-12 text-center">
-                        <a  href="#" class="btn btn-success alignself-center" onClick={() =>handleAdd(product)}>Add To Cart</a>
+                        <a   class="btn btn-success alignself-center" onClick={() =>handleAdd(product)}>Add To Cart</a>
 
                         </div>
                     </div>
