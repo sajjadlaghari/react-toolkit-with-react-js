@@ -7,7 +7,13 @@ const cartSlice = createSlice({
     initialState, // Correct reference to 'initialState'
     reducers: {
         add(state, action) {
-            state.push(action.payload);
+            const productToAdd = action.payload;
+            const existingProduct = state.find(item => item.id === productToAdd.id);
+            if (!existingProduct) {
+                state.push(productToAdd);
+            } else {
+                console.log('Product is already in the cart!');
+            }
         },
         remove(state, action) { // Added 'state' parameter here
             return state.filter(item => item.id !== action.payload);
