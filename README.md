@@ -1,6 +1,8 @@
 
 ### First, clone the project:
 
+#### In this Project I have Used Redux Toolkit and React query it was awesome Experience with Redux Toolkit and React Query
+
  Start by cloning the project to your local machine.
 
 Navigate to the project directory:
