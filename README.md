@@ -19,3 +19,19 @@ Execute the command ``` npm start ``` in the project directory to start the deve
 ##### Once the website is loaded, you can interact with it. Test the functionality of adding and removing products from the cart using Redux Toolkit.
 
 ##### These steps guide you through the process of cloning, setting up, and running a React project with Redux Toolkit for managing the cart functionality.
+
+
+
+## Outputs
+
+![screencapture-localhost-3000-2023-11-18-18_31_35](https://github.com/sajjadlaghari/redux-toolkit-with-react-js/assets/68752819/f60d6064-92c5-42e5-8df7-33000c759cd6)
+
+#### With Toast Alert Message
+
+![image](https://github.com/sajjadlaghari/redux-toolkit-with-react-js/assets/68752819/70d1bc6b-312c-415d-b89a-1a99238f59ec)
+
+
+#### Cart Screen Only added Product will be show
+
+
+![image](https://github.com/sajjadlaghari/redux-toolkit-with-react-js/assets/68752819/94fb180f-8149-4b95-9728-c566f32478fa)
