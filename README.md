@@ -37,3 +37,10 @@ Execute the command ``` npm start ``` in the project directory to start the deve
 
 
 ![image](https://github.com/sajjadlaghari/redux-toolkit-with-react-js/assets/68752819/94fb180f-8149-4b95-9728-c566f32478fa)
+
+
+
+
+#### Product Detailed Page
+
+![image](https://github.com/sajjadlaghari/redux-toolkit-with-react-js/assets/68752819/81e0f9c9-4fd9-4d55-8ec3-5f9544265ab5)
